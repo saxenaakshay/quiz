@@ -1,4 +1,6 @@
 # quiz
+**This application was created in May 2012**
+
 This application is a Quiz based game that provides multiple options with 1 correct answer. For assisting the user/player lifelines are provided which can be used once . Features like timer,time bank,skype integeration to make VoIP call are also included.
 ____________________________
 
